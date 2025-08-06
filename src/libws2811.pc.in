@@ -8,4 +8,4 @@ Description: Raspberry Pi WS281X Library
 Version: @VERSION@
 Requires:
 Libs: -L${libdir} -lws2811
-Cflags: -I${includedir}/ws2811
+Cflags: -I${includedir}
