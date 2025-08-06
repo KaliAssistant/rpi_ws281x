@@ -5,6 +5,7 @@ test
 newtest
 *.o
 *.lo
+*.la
 *.a
 *.swp
 
@@ -30,6 +31,7 @@ src/.deps/
 src/.libs/
 src/Makefile
 src/Makefile.in
+src/libws2811.pc
 
 stamp-h1
 
